@@ -1,0 +1,2 @@
+- name: Workflow Webhook Action
+  uses: distributhor/workflow-webhook@v3.0.5
